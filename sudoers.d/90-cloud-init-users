@@ -1,0 +1,4 @@
+# Created by cloud-init v. 22.4.2-0ubuntu0~20.04.2 on Thu, 16 Feb 2023 05:37:35 +0000
+
+# User rules for freddy
+freddy ALL=(ALL) NOPASSWD:ALL
